@@ -1,6 +1,6 @@
 # OFFLINE LAMBDA DEVELOPMENT
 
-# CloudFormation Lambda sample definition
+### CloudFormation Lambda sample definition
 
 ```
     SampleFunction:
