@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  lambda:
+    build: .
+    environment:
+      - PYTHONPATH=/var/task/src:/var/task/lib
+    volumes:
+      - ./src/:/var/task/src/
+      - ./tmp/:/tmp/
