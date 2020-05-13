@@ -2,6 +2,8 @@
 
 A simple docker environment to offline develop and test python AWS Lambda functions.
 
+More datails on [this post](https://www.vittorionardone.it/en/2020/05/12/aws-lambda-offline-development-with-docker/) on my Digital Transformation Blog.
+
 ### CloudFormation Lambda sample definition
 
 ```
